@@ -14,7 +14,7 @@
 
 <br/>
 
-<h1>🐾 MeowNote</h1>
+<h1>🐾 MeowNote-PWA</h1>
 
 <p><strong>基于 Cloudflare Workers + D1 的轻量级私有笔记应用</strong></p>
 
