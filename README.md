@@ -30,6 +30,10 @@
 
 ---
 
+## ✨ 修改项
+- **自定义背景和随机背景** — 在原项目的基础上添加了背景支持
+- **PWA** — 支持添加带桌面访问
+
 ## ✨ 项目简介
 
 **MeowNote** 是一款运行于 Cloudflare Workers 边缘网络的私有笔记应用，前后端全部封装在一个单 JS 文件中，无需服务器，无需数据库购买，零运营成本即可拥有属于自己的笔记空间。CF D1免费版本5G！
@@ -108,7 +112,8 @@
 
 1. 进入 **Workers & Pages → Create application → Create Worker**
 2. 输入 Worker 名称（例如 `meownote`），点击 **Deploy**
-3. 部署完成后点击 **Edit code**，将 `Menos_Workers.js` 的全部内容粘贴进去，点击 **Save and Deploy**
+~~3. 部署完成后点击 **Edit code**，将 `Menos_Workers.js` 的全部内容粘贴进去，点击 **Save and Deploy**
+3. 让后拖拽整个文件夹上传部署,部署前先用文件编辑器把**数据id**替换保存
 
 **第三步：绑定 D1 数据库**
 
