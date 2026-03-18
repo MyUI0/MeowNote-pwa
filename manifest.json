@@ -1,0 +1,26 @@
+{
+  "name": "MeowNote",
+  "short_name": "MeowNote",
+  "description": "轻量级、注重隐私的笔记应用",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://c-ssl.dtstatic.com/uploads/item/201606/20/20160620100648_2HrMF.thumb.1000_0.jpeg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://c-ssl.dtstatic.com/uploads/item/201606/20/20160620100648_2HrMF.thumb.1000_0.jpeg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "zh-CN"
+}
