@@ -7,4 +7,4 @@ assets = { directory = ".", binding = "ASSETS" }
 [[d1_databases]]
 binding = "DB"  # 必须为 DB，不能改
 database_name = "meownote-db"  # 自定义数据库名
-database_id = "947224cb-0ffc-4bf9-a8e8-859f5d575e00"  # 替换为实际 ID
+database_id = "Your ID"  # 替换为实际 ID
